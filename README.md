@@ -1,5 +1,6 @@
 # Geocode Addresses in Stata
 
+
 ## Overview
 
 `geocode.ado` is a Stata program designed to geocode addresses using the Nominatim API. It adds latitude and longitude coordinates to your dataset based on address information.
@@ -69,6 +70,5 @@ geocode address, save(geocoded_dataset.dta)
 
 For issues or questions, please contact the maintainer of this ADO file or consult Stata's online resources and forums for additional help.
 
----
 
-This README file provides comprehensive information about installing, using, and understanding the `geocode.ado` file.
+
